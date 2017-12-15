@@ -1,0 +1,2 @@
+# Tracking-error
+This is a MATLAB file to determine the tracking error of a non-motile fluorophore. For example, we can record a kinesin attached to the coverslip and track it using trackmate or FIESTA (this code takes the input value from trackmate or FIESTA), but you can easily change that. After that it plots all the position in a hisogram and determines the FWHM of that histogram, which is the tracking error of that fluorophore. 
